@@ -79,3 +79,33 @@ footer {
     display: block;
     margin: 0 auto 10px;
 }
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #f8f9fa;
+}
+
+.header-text h1 {
+    margin: 0;
+    font-size: 32px;
+    color: #1f2d50;
+}
+
+.tagline {
+    font-size: 18px;
+    margin: 5px 0;
+    color: #444;
+}
+
+.motto {
+    font-size: 16px;
+    font-style: italic;
+    color: #b8860b;
+    margin-top: 5px;
+}
+
+.header-logo img {
+    width: 180px;
+}
